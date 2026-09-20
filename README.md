@@ -21,7 +21,8 @@ HUB проверяет GitHub Releases при запуске .
 ## Обратная связь
 
 Сообщения об ошибках: [Issues](https://github.com/Igromanoff/Igromanoff-HUB/issues). 
-Укажите версию HUB, версию Windows и шаги воспроизведения. Перед прикреплением журнала удалите личные данные.
+Укажите версию HUB, версию Windows и шаги воспроизведения. 
+Перед прикреплением журнала удалите личные данные.
 
 [Telegram](https://t.me/igromanofff) · [YouTube](https://www.youtube.com/@igromanoff)
 
