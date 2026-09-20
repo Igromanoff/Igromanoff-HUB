@@ -15,11 +15,13 @@
 
 ## Обновления
 
-HUB проверяет GitHub Releases при запуске . Проверку можно отключить или запустить вручную кнопкой **«Обновления HUB»**.
+HUB проверяет GitHub Releases при запуске . 
+Проверку можно отключить или запустить вручную кнопкой **«Обновления HUB»**.
 
 ## Обратная связь
 
-Сообщения об ошибках: [Issues](https://github.com/Igromanoff/Igromanoff-HUB/issues). Укажите версию HUB, версию Windows и шаги воспроизведения. Перед прикреплением журнала удалите личные данные.
+Сообщения об ошибках: [Issues](https://github.com/Igromanoff/Igromanoff-HUB/issues). 
+Укажите версию HUB, версию Windows и шаги воспроизведения. Перед прикреплением журнала удалите личные данные.
 
 [Telegram](https://t.me/igromanofff) · [YouTube](https://www.youtube.com/@igromanoff)
 
